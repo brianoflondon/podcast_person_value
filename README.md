@@ -2,7 +2,7 @@
 
 Podcast Person tag and Value Block for when I appear on Podcasts
 
-## Person Tag
+## [Person Tag](person.xml)
 
 ```xml
 <podcast:person role="Guest"
@@ -12,7 +12,7 @@ Podcast Person tag and Value Block for when I appear on Podcasts
 </podcast:person>
 ```
 
-## Value Block
+## [Value Block](value.xml)
 
 ```xml
 <podcast:value type="lightning" method="keysend" suggested="0.00000010000">
